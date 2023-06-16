@@ -44,11 +44,12 @@ X = X, J(rows(X),1,1) //constant term
 Y = st_data(.,"mpg") // dependent var
 ```
 
-Finally, the beta coefficient is estimated with the same matrix expression above:
+Finally, estimate the beta coefficient by using the same matrix expression above and exit the Mata session in order to return to STATA
 
 ```s
 beta = luinv(X'*X)*X'*Y
 beta
+
 end
 ```
 

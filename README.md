@@ -55,7 +55,7 @@ end
 
 ## Compare results
 
-In conclusion, compare the results using the Matrix Linear Regression Model in Mata to the results using the Scalar Linear Regression Model in Stata.
+In conclusion, compare the results using the Matrix Linear Regression Model in Mata to the results using the Scalar Linear Regression Model in STATA.
 
 ```s
 reg mpg weight //verify

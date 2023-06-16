@@ -21,7 +21,7 @@ $$
 $$
 
 ## Data
-The user must first prepare the data for analysis. Load the exercise data, stored in a file called auto.dta, which is included in STATA.
+The user must first prepare the data for analysis. Load the exercise data, stored in a file called auto2.dta, which is included in STATA.
 
 ```s
 clear

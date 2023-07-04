@@ -5,7 +5,7 @@ I assume that the reader has some basic knowledge using STATA and has an introdu
 
 Mata is a matrix programming language that can be used by those who want to perform matrix calculations interactively and by those who want to add new features to Stata.
 
-In this case, this simulation can be useful as a replication of the beta coefficients in a regression analysis through OLS in Mata.
+In this case, this simulation can be useful as a replication of the beta coefficient in a regression analysis through OLS in Mata.
 
 ## Introduction
 In matrix form, the sample regression function is:
